@@ -1,5 +1,8 @@
 # YouLostIt PrivTag
-A privacy preserving battery-powered lost-device tracker. 
+A privacy preserving battery-powered lost-device tracker.
+
+## Code Sample  
+- Code Sample is available upon request: [yuhenglin02042003@gmail.com](mailto:yuhenglin02042003@gmail.com)
 
 ## Overview  
 **YouLostIt** is a privacy-enabled lost-item tracker designed to help users locate misplaced belongings. 
